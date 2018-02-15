@@ -17,3 +17,4 @@ gradle-app.setting
 sandbox/build/
 sandbox.rar
 sandbox/out/production/classes/MyFirstProgram.class
+sandbox/.idea/workspace.xml
