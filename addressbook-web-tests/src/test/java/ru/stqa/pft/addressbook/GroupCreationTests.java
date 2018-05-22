@@ -19,7 +19,6 @@ public class GroupCreationTests {
     wd = new FirefoxDriver(new FirefoxOptions().setLegacy(true));
     wd.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
     wd.get("http://localhost/addressbook/group.php");
-
     login("admin", "secret");
   }
 
